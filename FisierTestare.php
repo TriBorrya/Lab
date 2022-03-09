@@ -1,14 +1,12 @@
 <?php
 
-
-	//Am facut si un comentariu nou aici, tot din bun simt
-
-
-	//Si am ster un comentariu, la fel din bun simt	
+	/* 1.b
 	$arra = array(0,1,2,3,4,5,6,7,8,9,10);
 	$rez = array_reverse($arra);
 	print_r($rez);
-	
+	*/
+
+	/* 1.e
 	$x = 4;
 	$y = 8;
 	$arra = array(0,1,2,3,4,5,6,7,8,9,10);
@@ -17,7 +15,7 @@
 			echo " $key";
 		}
 	}
-	
+	*/
 
 	/* 1.i
 	$arra = array(5,9,6,8,1,2,4,3,7);
